@@ -38,7 +38,7 @@ ai_lottie = load_lottieurl("https://lottie.host/f298238b-ae7e-4261-9638-9758a53a
 
 # ----------------- info ----------------- #
 st.markdown(f'<h1 style="text-align:center;background-color: #90ADC6;font-size:60px;border-radius:2%;">'
-            f'<span style="color:#444444;">Bonjour ! Je suis {info['Full_Name']}👋</span><br>'
+            f'<span style="color:#444444;">Bonjour ! Je suis {info["Full_Name"]}👋</span><br>'
             f'<span style="color:#444444;font-size:17px;">{info["Intro"]}</span></h1><br>', 
             unsafe_allow_html=True)
 st.write("")
