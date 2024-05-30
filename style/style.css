@@ -1,0 +1,65 @@
+/* Change the sidebar color*/
+[data-testid="stSidebar"] {
+  background-color: #90ADC6;
+}
+
+/* Style the contact form */
+input[type=message], input[type=email], input[type=text], textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    color: #fefefe;
+    background-color: #444444;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical
+}
+.st-emotion-cache-z5fcl4{
+  padding-top: 30px;
+}
+
+/* Style the submit button with a specific background color etc */
+button[type=submit] {
+  background-color: #90ADC6;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.st-emotion-cache-1iv1zna {
+  display: none;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+button[type=submit]:hover {
+  background-color: #90ADC6;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+/* Design Hyperlink */
+a:link , a:visited{
+color: #444444;
+text-decoration: underline;
+}
+
+a:hover,  a:active {
+color: #444444;
+text-decoration: underline;
+}
+
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+

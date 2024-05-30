@@ -1,0 +1,83 @@
+
+{
+    "title": {
+        "media": {
+          "url": "",
+          "caption": " <a target=\"_blank\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Parcours Scolaire"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://lh3.googleusercontent.com/p/AF1QipM5fvrM7zExB6GaHrVPMb831lvzLwFTPNt1mKJh=s680-w680-h510",
+          "caption": "(<a target=\"_blank\" href='https://www.lycee-guillaumeleconquerant.fr/'>Lycee Guillaume Le Conquerant</a>)"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Bac Scientifique",
+          "text": "Mention : Assez Bien"
+        }
+      },
+      {
+        "media": {
+          "url": "https://lh3.googleusercontent.com/p/AF1QipOrE6iP_uwf3CQlCCPFXLbf_U7mw_KOZKswSy-0=s680-w680-h510",
+          "caption": "(<a target=\"_blank\" href='https://www.univ-lehavre.fr/fr/formations/but-informatique-info/'>IUT du Havre</a>)"
+        },
+        "start_date": {
+          "year": "2018",
+          "month":"8"
+        },
+        "end_date": {
+          "year": "2020",
+          "month":"6"
+        },
+        "text": {
+          "headline": "DUT Informatique",
+          "text": "Au cours du programme, j'ai pu acquerir diverses competences elementaires telles que la programmation objet en Java, les bases de donnees relationnelles SQL, le developpement web HTML/CSS ou enore l'architecture reseau."
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.univ-lehavre.fr/wp-content/uploads/2023/11/rubon8-3a230.jpg",
+          "caption": "(<a target=\"_blank\" href='https://www.univ-lehavre.fr/fr/formations/licence-langues-etrangeres-appliquees/'>Universite du Havre</a>)"
+        },
+        "start_date": {
+          "year": "2020",
+          "month":"9"
+        },
+        "end_date": {
+          "year": "2023",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Licence de Langues Etrangeres Apliquees",
+          "text": "Au cours de cette licence, j'ai pu renforce mes competences linguistiques en anglais par le biais de cours de traduction ou d'expression, et y ai fait la decouverte de nouvelles cultures par le biais de l'apprentissage de langues asiatiques : coreen et japonais. J'ai egalement effectuer ma 3eme annee a Seoul au sein de l'universite Sungshin Women's University."
+        }
+      },
+      {
+        "media": {
+          "url": "https://i0.wp.com/www.frenchweb.fr/wp-content/uploads/2016/07/Wild-Code-School-Lyon-550x413.jpg?resize=250%2C200",
+          "caption": "(<a target=\"_blank\" href='https://www.wildcodeschool.com/fr-fr/formations-data/formation-data-analyst'>Wild Code School</a>)"
+        },
+        "start_date": {
+          "year": "2024",
+          "month":"2"
+        },
+        "end_date": {
+          "year": "2024",
+          "month":"7"
+        },
+        "text": {
+          "headline": "Formation Data Analyst, Wild Code School",
+          "text": "Au sein de la Wild Code School, je me forme au domaine de la Data, d'abord par l'apprentissage de Python et de ces librairies, par l'utilisation de SQL, la visualisation via Dashboard mais egalement la recuperation de donnee et son utilisation dans le machine learning."
+        }
+      }
+    ]
+}
