@@ -28,4 +28,10 @@ st.write("")
 #       st.markdown(f'<div style="text-align: center;">{pdf_display}</div>', unsafe_allow_html=True)    
 
 pdf_viewer("images/resume.pdf")
+
+with open("images/resume.pdf","rb") as f:
+      base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+    
+st.markdown(f'<a href="data:application/octet-stream;base64,{base64_pdf}" download="CV Quentin BERNARDIN.pdf">Télécharger le CV</a>', unsafe_allow_html=True)    
+
   
