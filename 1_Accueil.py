@@ -42,7 +42,7 @@ st.markdown(f'<h1 style="text-align:center;background-color: #90ADC6;font-size:6
             f'<span style="color:#444444;font-size:17px;">{info["Intro"]}</span></h1><br>', 
             unsafe_allow_html=True)
 st.write("")
-st.markdown(f'<div style="text-align: justify;">{info['About']}</div>', unsafe_allow_html=True)
+st.markdown(f'<div style="text-align: justify;">{info["About"]}</div>', unsafe_allow_html=True)
 
 
 with open("images/Programme_Data_IA_Engineer.pdf","rb") as f:
